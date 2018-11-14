@@ -5,6 +5,8 @@
 
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/managing_containers/finding_running_and_building_containers_without_docker
 
+https://github.com/GoogleContainerTools/container-structure-test
+
 # Start Vagrant
 ```
 vagrant up && vagrant ssh
